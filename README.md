@@ -2,10 +2,15 @@
 
 This dashboard provides a detailed overview of key performance metrics, including:
 
-🔹 **Year-over-Year (YoY) Customer Difference**: Measure the growth or decline in customers year over year dynamically based on selected years. The title adjusts automatically:
+🔹 **Year-over-Year (YoY) Customer Difference**: 
+Measure the growth or decline in customers year over year dynamically based on selected years. The title adjusts automatically:
+
 No year selected: Shows "Total Customers."
+
 2016 selected: Displays "Count of Customers."
+
 2017 or 2018 selected: Displays "YoY Customer Difference."
+
 
 🔹 **Total Revenue & Sales**: Monitor overall revenue and sales performance.
 
